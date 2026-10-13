@@ -42,11 +42,14 @@ b. Jalankan script tersebut sebagai berikut:
 <img width="651" height="491" alt="image" src="https://github.com/user-attachments/assets/ab560253-2a22-422f-a2a9-9b2e47518c5d" />
 
 5. Jobs
+
 a. Buat shell-script yang melakukan loop dengan nama pwaktu.sh, setiap 10 detik, kemudian menyimpan tanggal dan jam pada file hasil.
 
 <img width="652" height="506" alt="image" src="https://github.com/user-attachments/assets/a675c45e-fb0d-4082-a0a0-f4135aa02023" />
 
 b. Jalankan sebagai background; kemudian jalankan satu program (utilitas find) dibackground sebagai berikut :
 
+<img width="652" height="497" alt="image" src="https://github.com/user-attachments/assets/aa4c4c3b-9dee-493c-af1a-7cbc358bc75d" />
 
+c. Jadikan program ke 1 sebagai foreground, tekan ^Z dan kembalikan program tersebut ke background
 

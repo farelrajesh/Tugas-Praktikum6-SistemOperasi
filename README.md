@@ -44,3 +44,9 @@ b. Jalankan script tersebut sebagai berikut:
 5. Jobs
 a. Buat shell-script yang melakukan loop dengan nama pwaktu.sh, setiap 10 detik, kemudian menyimpan tanggal dan jam pada file hasil.
 
+<img width="652" height="506" alt="image" src="https://github.com/user-attachments/assets/a675c45e-fb0d-4082-a0a0-f4135aa02023" />
+
+b. Jalankan sebagai background; kemudian jalankan satu program (utilitas find) dibackground sebagai berikut :
+
+
+

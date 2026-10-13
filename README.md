@@ -20,3 +20,12 @@ b. Eksperimen hasil PS1 :
 3.Logout Edit file .bash_logout, tampilkan pesan dan tahan selama 5 detik, sebelum eksekusi logout
 <img width="820" height="700" alt="image" src="https://github.com/user-attachments/assets/a5462397-148f-4eb5-95d6-ef26c4864670" />
 
+4. Bash script
+a. Buat 3 buah script p1.sh, p2.sh, p3.sh dengan isi masing-masing:
+<img width="638" height="497" alt="image" src="https://github.com/user-attachments/assets/a40d91b5-675e-48ba-8249-bdd625c757f4" />
+b. Jalankan script tersebut sebagai berikut:
+<img width="651" height="491" alt="image" src="https://github.com/user-attachments/assets/ab560253-2a22-422f-a2a9-9b2e47518c5d" />
+
+5. Jobs
+a. Buat shell-script yang melakukan loop dengan nama pwaktu.sh, setiap 10 detik, kemudian menyimpan tanggal dan jam pada file hasil.
+

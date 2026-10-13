@@ -53,3 +53,35 @@ b. Jalankan sebagai background; kemudian jalankan satu program (utilitas find) d
 
 c. Jadikan program ke 1 sebagai foreground, tekan ^Z dan kembalikan program tersebut ke background
 
+
+<img width="652" height="493" alt="image" src="https://github.com/user-attachments/assets/cec13d05-fdc8-499f-9140-ded1f1e92944" />
+
+
+d. Menghentikan program menggunakan kill
+
+<img width="526" height="397" alt="image" src="https://github.com/user-attachments/assets/6897786d-2a95-41e9-907c-5f24c4569d5f" />
+
+
+6. HISTORY
+
+a. Ganti nilai HISTSIZE dari 1000 menjadi 20
+
+<img width="720" height="517" alt="image" src="https://github.com/user-attachments/assets/57bb7303-38bb-417c-b172-d37ea4609dba" />
+
+b. Gunakan fasilitas history dengan mengedit instruksi baris ke 5 dari instruksi yang terakhir dilakukan
+
+<img width="646" height="495" alt="image" src="https://github.com/user-attachments/assets/15378769-633c-458d-8355-053b9bea883f" />
+
+
+c. Ulangi instruksi yang terakhir. Gunakan juga ^P dan ^N untuk bernavigasi pada history bufer
+
+<img width="640" height="497" alt="image" src="https://github.com/user-attachments/assets/7dc29d2e-4838-4069-bde3-409ba680246f" />
+
+
+d. Ulangi instruksi pada history bufer nomor 150
+
+<img width="652" height="491" alt="image" src="https://github.com/user-attachments/assets/8ff219dd-9211-4aa0-9d8f-35b54cf71065" />
+
+e. Ulangi instruksi dengan prefix “ls”
+
+<img width="671" height="497" alt="image" src="https://github.com/user-attachments/assets/5178eb35-8e27-4d35-80d4-355eb53a8c6b" />
